@@ -445,6 +445,12 @@
    "cache_read": 0.1,
    "cache_write": 2.5
   },
+  "gpt-6.1-terra": {
+   "input": 1.0,
+   "output": 5.0,
+   "cache_read": 0.05,
+   "cache_write": 1.25
+  },
   "o1": {
    "input": 15.0,
    "output": 60.0,
@@ -550,6 +556,12 @@
    "output": 15.0,
    "cache_read": 0.2,
    "cache_write": 5.0
+  },
+  "gpt-6.1-terra": {
+   "input": 2.0,
+   "output": 7.5,
+   "cache_read": 0.1,
+   "cache_write": 2.5
   }
  },
  "gemini": {
@@ -691,5 +703,5 @@
    "cache_read": 0.4
   }
  },
- "generated_at": "2026-10-16T11:36:52Z"
+ "generated_at": "2026-10-27T06:50:43Z"
 }
